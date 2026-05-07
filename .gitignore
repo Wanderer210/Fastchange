@@ -1,0 +1,25 @@
+# datasets
+Datasets/
+datasets/
+
+# cache
+__pycache__/
+*.pyc
+
+# results
+results-jjjin/
+snn_analysis_results/
+
+# large event/data files
+*.h5
+*.hdf5
+*.npy
+*.npz
+*.mat
+*.avi
+*.mp4
+
+# experiment results
+results-jijin/
+results-jjjin/
+snn_analysis_results/
